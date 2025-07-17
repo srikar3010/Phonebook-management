@@ -21,10 +21,16 @@ This is a simple **Phonebook Management System** built using **C++** with a **si
 ##  How to Run
 
 1. **Clone this repository**:
-   ```bash
    git clone https://github.com/YOUR_USERNAME/Phonebook-LinkedList.git
    cd Phonebook-LinkedList
+   
+2. **Compile the Program**
+   g++ phonebook.cpp -o phonebook
 
+3. **Run the Program**
+   ./phonebook    # Linux or Mac
+   phonebook.exe  # Windows
+ 
 ## Sample Output
   Phonebook Menu:
   1. Add Contact
